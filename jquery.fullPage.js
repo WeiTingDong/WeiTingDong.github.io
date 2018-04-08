@@ -1,3 +1,4 @@
+console.log("succeed!")
 /*!
  * fullPage 2.9.6
  * https://github.com/alvarotrigo/fullPage.js
