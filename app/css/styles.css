@@ -77,15 +77,15 @@ a:visited{
 /* Bottom menu
 * --------------------------------------- */
 
-.light>h1{
+.light{
 	color:#FFF;
 }
-.light>p{
-	color:#FFF;
-}
-.dark>h1{
+.dark{
 	color:#000;
 }
-.dark>p{
-	color:#000;
+
+.project{
+	width: 80%;
+	text-align: left;
+	margin: 0 auto;
 }
