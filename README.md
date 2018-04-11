@@ -1,4 +1,4 @@
-#Weiting's CV
+# Weiting's CV
 
 1. #### Go to https://weitingdong.github.io/ to visit the application.
 
@@ -24,9 +24,11 @@
     To enable github page to run the app, I put the generated files in the root.
 
 1. #### How to run:
+    ```
     $ npm install
     $ gulp
+    ```
 
 1. #### Reference: 
-    >https://alvarotrigo.com/fullPage/#
-    >https://github.com/Ovilia/cv
+    >1. https://alvarotrigo.com/fullPage/#
+    >2. https://github.com/Ovilia/cv
